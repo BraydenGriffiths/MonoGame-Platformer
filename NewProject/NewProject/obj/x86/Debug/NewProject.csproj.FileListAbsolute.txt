@@ -1,0 +1,38 @@
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\Content\Arial.xnb
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\Content\hero.xnb
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\NewProject.exe
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\NewProject.pdb
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\SharpDX.dll
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\SharpDX.xml
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+G:\Aie\NewProject\NewProject\obj\x86\Debug\NewProject.csprojResolveAssemblyReference.cache
+G:\Aie\NewProject\NewProject\obj\x86\Debug\NewProject.exe
+G:\Aie\NewProject\NewProject\obj\x86\Debug\NewProject.pdb
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\Content\rock_large.xnb
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\Content\Fantasy Tileset.xnb
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\Content\Level1.xnb
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\Content\Tileset.xnb
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\MonoGame.Extended.dll
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\Content\classical_ruin_tiles.xnb
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\Content\Map1.xnb
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\Content\Map2.xnb
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\Content\Misolanious fixed.xnb
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\Content\My tile set.xnb
+G:\Aie\NewProject\NewProject\bin\Windows\x86\Debug\Content\nm1.xnb

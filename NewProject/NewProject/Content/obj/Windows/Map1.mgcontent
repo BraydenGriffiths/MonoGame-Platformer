@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>G:/Aie/NewProject/NewProject/Content/Map1.tmx</SourceFile>
+  <SourceTime>2017-04-14T23:41:36+09:30</SourceTime>
+  <DestFile>G:/Aie/NewProject/NewProject/Content/bin/Windows/Map1.xnb</DestFile>
+  <DestTime>2017-04-29T13:17:54+09:30</DestTime>
+  <Importer>TiledMapImporter</Importer>
+  <ImporterTime>2016-04-08T11:54:30+09:30</ImporterTime>
+  <Processor>TiledMapProcessor</Processor>
+  <ProcessorTime>2016-04-08T11:54:30+09:30</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
